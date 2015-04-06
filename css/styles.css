@@ -13,6 +13,7 @@ body {
 }
 
 h1 {
+    font-family: 'Righteous', cursive;
 	margin-top: 5%;
 	margin-left: 7.5%;
 	margin-bottom: 5%;
@@ -20,6 +21,7 @@ h1 {
 }
 
 .top-p {
+    font-family: 'Philosopher', sans-serif;
 	text-align: left;
 	margin-top: 2.5%;
 	margin-left: 15%;
@@ -30,6 +32,7 @@ h1 {
 }
 
 .bot-p {
+    font-family: 'Philosopher', sans-serif;
 	text-align: right;
 	margin-top: 15%;
 	margin-bottom: 5%;
